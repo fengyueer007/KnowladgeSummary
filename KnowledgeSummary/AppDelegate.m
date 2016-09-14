@@ -26,6 +26,7 @@
     LeftViewController *leftVC = [[LeftViewController alloc]init];
     MainViewController *mainVC = [[MainViewController alloc]init];
     TwoViewController *twoVC = [[TwoViewController alloc]init];
+    //测试github工具
     
     
     [SliderViewController sharedSliderController].LeftVC = leftVC;
